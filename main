@@ -1,5 +1,6 @@
 --[[
 # developed by jakep#0001
+# changes by KylnDantas#6271
 --]]
 
 local lib = {}
@@ -899,7 +900,7 @@ VersionLabel.Position = UDim2.new(0.686274529, 0, 0.152597398, 0)
 VersionLabel.Size = UDim2.new(0, 198, 0, 27)
 VersionLabel.Font = Enum.Font.Code
 VersionLabel.RichText = true
-VersionLabel.Text = "<b>Version: 2.0.0     </b>"
+VersionLabel.Text = "<b>KylnDantas#6271     </b>"
 VersionLabel.TextColor3 = Color3.fromHex(colorid)
 VersionLabel.TextScaled = true
 VersionLabel.TextSize = 23.000
